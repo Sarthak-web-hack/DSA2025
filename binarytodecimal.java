@@ -12,6 +12,7 @@ class binarytodecimal{
         }
         System.out.println("decimal of "+bibnum+"="+decnum);
     }
+    
     public static void main(String[] args) {
         binarytodecimal b1=new binarytodecimal();
         b1.binary(10001);
